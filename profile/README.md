@@ -14,7 +14,7 @@ EEG-DaSh (**Data Share**) is an open-access platform democratizing MEEG (EEG, ME
 - **Smart Integration**: Direct access to NSF supercomputers via the [Neuroscience Gateway]
 - - **Community-Driven**: Built on [BIDS standards](https://bids-standard.github.io/) with data from OpenNeuro, NEMAR, and contributors worldwide
 - - **Hugging Face Compatibility**: Compatibility with Hugging Face for easy transfer of pre-processed data.
-  - 
+
 ## 📊 What's in the Archive
 
 Currently hosting diverse MEEG datasets preprocessed for immediate use. All data:
